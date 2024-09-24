@@ -27,7 +27,7 @@ On the other hand, the hardware reduction of the processor caused the timing spe
 So the LS 6502 processor does not take the same execution time (in clock cycles) as a real MOS 6502 processor.
 Usually the simulated processor requires more time.
 
-![basic LS6502 architecture snapshot](images/Elementary LS6502 architecture.jpg)
+![basic LS6502 architecture snapshot](images/Elementary_LS6502_architecture.jpg)
 
 ## Creating a simple 6502 computer from the 80s era
 
@@ -37,4 +37,4 @@ as it was known at the time. [BASIC](https://en.wikipedia.org/wiki/BASIC) as ope
 which allowed to use as a machine similar to the computers of the 80s on the Logisim simulator.
 Although the response time was very very slow (the image below is a capture of this BASIC-based architecture).
 
-![LS6502 architecture with BASIC snapshot](images/LS6502 with BASIC.jpg)
+![LS6502 architecture with BASIC snapshot](images/LS6502_with_BASIC.jpg)
