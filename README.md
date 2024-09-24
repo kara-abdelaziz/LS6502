@@ -12,6 +12,7 @@ A simulator normally intended for academic use for small projects, and not compl
 Despite this, the simulator normally manages to run this processor, with a fairly high number of elementary components exceeding 2500.
 The implementation was a from scratch build, meaning that the pre-built components of the Logisim library were avoided as much as possible,
 and that most of the parts were built at low level with only logic gates and flip-flops, except perhaps for memories like RAM and ROM.
+![stand-alone LS6502 snapshot](images/LS6502.jpg)
 
 ## Testing the LS 6502
 
