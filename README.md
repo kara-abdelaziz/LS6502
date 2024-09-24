@@ -12,6 +12,7 @@ A simulator normally intended for academic use for small projects, and not compl
 Despite this, the simulator normally manages to run this processor, with a fairly high number of elementary components exceeding 2500.
 The implementation was a from scratch build, meaning that the pre-built components of the Logisim library were avoided as much as possible,
 and that most of the parts were built at low level with only logic gates and flip-flops, except perhaps for memories like RAM and ROM.
+
 ![stand-alone LS6502 snapshot](images/LS6502.jpg)
 
 ## Testing the LS 6502
@@ -25,6 +26,7 @@ the [Klaus Dormann 6502 Benchmark](https://github.com/Klaus2m5/6502_65C02_functi
 On the other hand, the hardware reduction of the processor caused the timing specifications to be no longer respected.
 So the LS 6502 processor does not take the same execution time (in clock cycles) as a real MOS 6502 processor.
 Usually the simulated processor requires more time.
+
 ![basic LS6502 architecture snapshot](images/Elementary LS6502 architecture.jpg)
 
 ## Creating a simple 6502 computer from the 80s era
@@ -34,4 +36,5 @@ as it was known at the time. [BASIC](https://en.wikipedia.org/wiki/BASIC) as ope
 [Enhanced BASIC](http://retro.hansotten.nl/6502-sbc/lee-davison-web-site/enhanced-6502-basic/) was integrated into the ROM of the architecture,
 which allowed to use as a machine similar to the computers of the 80s on the Logisim simulator.
 Although the response time was very very slow (the image below is a capture of this BASIC-based architecture).
-![basic LS6502 architecture snapshot](images/LS6502 with BASIC.jpg)
+
+![LS6502 architecture with BASIC snapshot](images/LS6502 with BASIC.jpg)
