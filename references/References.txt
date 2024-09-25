@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=fWqBmmPQP40
+
+https://skilldrick.github.io/easy6502/
+http://www.6502.org/tutorials/6502opcodes.html
+https://www.masswerk.at/6502/6502_instruction_set.html
+https://www.pagetable.com/?p=410
+http://nesdev.com
+http://www.visual6502.org
+https://hex-works.com
+http://retro.hansotten.nl/6502-sbc/lee-davison-web-site/enhanced-6502-basic/
+
+http://wiki.nesdev.com/w/index.php/Visual_circuit_tutorial
+http://wilsonminesco.com/6502primer/index.html
+
+the 6502 user manual : 6502_Users_Manual.pdf
