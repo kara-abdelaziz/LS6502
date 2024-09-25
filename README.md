@@ -50,11 +50,11 @@ Although the response time was very very slow (the image below is a capture of t
    1. EhBASIC Logisim 6502 Computer.circ : A relatively advanced architecture with a screen and a keyboard, similar to 80s era computers with BASIC used as operating system and programming language.
    2. EnBASIC Binary Code.65b : The binary code of the Enhanced BASIC firmware image used as BASIC language for the architecture.
    3. Enhanced_BASIC.ROM : Is the mapping of the Enhanced BASIC Binary Code firmware image into the architecture 32KB ROM
-   4. 6502_EhBASIC_V2.22-master.zip : The main 6502 code of the Enhanced BASIC framware.
+   4. 6502_EhBASIC_V2.22-master.zip : The main 6502 code of the Enhanced BASIC frimware.
    5. Michal Kowalski 6502 simulator.zip : A 6502 simulator used as to simulate the 6502 code.
-7. ROMs : This directory is used to store the diffrent ROM images of internal processor sequencer/control unit (CU). Many functional ROMs were used equivalent to complex combinationnal circuits.
-8. references : A directory containing the refereces and souce materrials were mainly used to understand the proper working of the 6502. All the ressources are saved here.
-9. exemples : some well documented exemples used to test the LS6502 are stored here. The simple exemples are the Farctorial and the Fabonacci programs. Plus the Klaus Dormann Benchmark directory.
+7. ROMs : This directory is used to store the different ROM images of internal processor sequencer/control unit (CU). Many functional ROMs were used equivalent to complex combinational circuits.
+8. references : A directory containing the references and source materials was mainly used to understand the proper working of the 6502. All the resources are saved here.
+9. exemples : Some well documented examples used to test the LS6502 are stored here. The simplest examples are the Factorial and the Fabonacci programs. Plus the Klaus Dormann Benchmark directory.
 10. exemples/Klaus Dormann Benchmark : A directory containing the code of the Klaus Dormann Benchmark, plus an 6502 assembler.
 
 ## Links
