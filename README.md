@@ -60,3 +60,4 @@ Although the response time was very very slow (the image below is a capture of t
 
 ## Links
 - My personal website [el-kalam.com](https://www.el-kalam.com)
+- Hackaday project : [hackaday.io](https://hackaday.io/project/198142-ls-6502)
